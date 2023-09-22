@@ -1,0 +1,19 @@
+/* Style for player-container */
+.player-container {
+    display: flex;
+    align-items: center; /* Vertically align items */
+  }
+  
+  /* Style for player-image */
+  .player-image {
+    flex: 1; /* Take up 1/3 of the available space */
+    text-align: center; /* Center the image horizontally */
+  }
+  
+  /* Style for player-details */
+  .player-details {
+    flex: 2; /* Take up 2/3 of the available space */
+    padding: 0 20px; /* Add some padding for spacing */
+  }
+  
+  /* Rest of your styles... */
